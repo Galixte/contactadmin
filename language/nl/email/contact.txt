@@ -1,0 +1,12 @@
+Onderwerp: {SUBJECT}
+
+Hallo {ADM_USERNAME},
+
+Een persoon met de nickname "{USERNAME}" met dit e-mail adres "{USER_EMAIL}" en dit IP adres "{USER_IP}" op "{DATE}" verzond het volgende bericht:
+
+{MESSAGE}
+
+via het contactformulier op "{SITENAME}".
+
+
+{EMAIL_SIG}

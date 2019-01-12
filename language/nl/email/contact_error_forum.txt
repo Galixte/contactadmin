@@ -1,4 +1,4 @@
-Subject: {SUBJECT}
+Onderwerp: {SUBJECT}
 
 {MESSAGE}
 
