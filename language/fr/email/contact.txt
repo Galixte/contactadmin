@@ -1,0 +1,10 @@
+Subject: {SUBJECT}
+
+Bonjour {ADM_USERNAME},
+
+Un individu du nom de « {USERNAME} » ayant l’adresse e-mail « {USER_EMAIL} » et l’adresse IP « {USER_IP} » a envoyé le message suivant le « {DATE} » au moyen du formulaire de contact sur « {SITENAME} » :
+
+{MESSAGE}
+
+
+{EMAIL_SIG}
